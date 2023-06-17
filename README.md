@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://www.canva.com/templates/EAFA2MQDJME-blue-dark-blue-gradient-color-and-style-video-background/" width="600" height="300"/>
 </div>
 
 # Hi there 👋, I'm [Alexander](https://alexander-de-royal.github.io/)
