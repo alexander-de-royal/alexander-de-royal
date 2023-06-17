@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div align="center">
-  <img src="https://www.canva.com/design/DAFmFsmW5vU/rIm7zrXKnaz72RKLKBOs2Q" width="600" height="300"/>
-</div>
+  <img src="https://pixabay.com/illustrations/planet-science-fiction-fantasy-world-1702788/" width="600" height="300"/>
 
 # Hi there 👋, I'm [Alexander](https://alexander-de-royal.github.io/)
 
