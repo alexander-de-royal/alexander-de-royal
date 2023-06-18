@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Alexander](https://alexander-de-royal.github.io/)
 
-![Header](./haeder-image.jpg)
+![Header](./header-image.jpg)
 
 A versatile, hardworking individual; driven to meet or exceed a company’s expectations to deliver high-quality software products. Experienced in Java, JavaScript, NoSQL & SQL. An effective listener that can communicate technical information in an easily understandable way. Offers a strong background in creative problem-solving and a proven ability to multi-task and prioritize in fast-paced, stressful environments.
 
