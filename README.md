@@ -1,14 +1,9 @@
-![Header](./haeder-image.jpg)
-
 # Hi there 👋, I'm [Alexander](https://alexander-de-royal.github.io/)
+
+![Header](./haeder-image.jpg)
 
 A versatile, hardworking individual; driven to meet or exceed a company’s expectations to deliver high-quality software products. Experienced in Java, JavaScript, NoSQL & SQL. An effective listener that can communicate technical information in an easily understandable way. Offers a strong background in creative problem-solving and a proven ability to multi-task and prioritize in fast-paced, stressful environments.
 
-
-<div align="center">
-<img src="https://en.wikipedia.org/wiki/Chicken#/media/File:Male_and_female_chicken_sitting_together.jpg" align="center" height="" width="600" />
-</div>  
-  
 
 ### <div align="center">I'm Alexander, a full-time full-stack student @ Code Up  since 2023 🚀</div>  
   
