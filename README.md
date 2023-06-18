@@ -1,3 +1,4 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ![Header](./header-image.jpg)
 
 # Hi there 👋, I'm [Alexander](https://alexander-de-royal.github.io/)
