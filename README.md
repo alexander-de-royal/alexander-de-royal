@@ -1,11 +1,12 @@
-# Hi there 👋, I'm [Alexander](https://alexander-de-royal.github.io/)
+# Hi there 👋
 
 ![Header](./header-image.jpg)
 
+# I'm [Alexander](https://alexander-de-royal.github.io/)
 A versatile, hardworking individual; driven to meet or exceed a company’s expectations to deliver high-quality software products. Experienced in Java, JavaScript, NoSQL & SQL. An effective listener that can communicate technical information in an easily understandable way. Offers a strong background in creative problem-solving and a proven ability to multi-task and prioritize in fast-paced, stressful environments.
 
 
-### <div align="center">I'm Alexander, a full-time full-stack student @ Code Up  since 2023 🚀</div>  
+# <div>I'm Alexander, a full-time full-stack student @ Code Up  since 2023 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://alexander-de-royal.github.io/)  
@@ -24,9 +25,6 @@ A versatile, hardworking individual; driven to meet or exceed a company’s expe
 
 
 ## My Skill Set  
-
-
-### Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
