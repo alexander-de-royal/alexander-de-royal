@@ -1,28 +1,8 @@
-# Hi there 👋
-
 ![Header](./header-image.jpg)
 
-# I'm [Alexander](https://alexander-de-royal.github.io/)
+# Hi there 👋, I'm [Alexander](https://alexander-de-royal.github.io/)
+
 A versatile, hardworking individual; driven to meet or exceed a company’s expectations to deliver high-quality software products. Experienced in Java, JavaScript, NoSQL & SQL. An effective listener that can communicate technical information in an easily understandable way. Offers a strong background in creative problem-solving and a proven ability to multi-task and prioritize in fast-paced, stressful environments.
-
-
-# <div>I'm Alexander, a full-time full-stack student @ Code Up  since 2023 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://alexander-de-royal.github.io/)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I hate using mouse when coding  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <div align="center">  
@@ -41,8 +21,22 @@ A versatile, hardworking individual; driven to meet or exceed a company’s expe
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>  
 
+
 <br/>  
 
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexander-de-royal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-de-royal&hide_border=true&layout=compact" align="left" />
+
+</td></tr></table>  
+
+<br/>  
 
 ## Connect with me  
 <div align="center">
@@ -65,26 +59,8 @@ A versatile, hardworking individual; driven to meet or exceed a company’s expe
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexander-de-royal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-de-royal&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
-
-<br/>  
-
 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
