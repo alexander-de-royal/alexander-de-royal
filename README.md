@@ -1,4 +1,4 @@
-![Header](./header-image.jpg)
+![Header](./haeder-image.jpg)
 
 # Hi there 👋, I'm [Alexander](https://alexander-de-royal.github.io/)
 
