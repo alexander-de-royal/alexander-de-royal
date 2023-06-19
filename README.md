@@ -7,13 +7,6 @@
 I'm [Alexander](https://alexander-de-royal.github.io/). I am a software engineer from San Francisco, CA. I am a versatile, hardworking individual; driven to meet or exceed a company’s expectations to deliver high-quality software products. Experienced in Java, JavaScript, NoSQL & SQL. An effective listener that can communicate technical information in an easily understandable way. Offers a strong background in creative problem-solving and a proven ability to multi-task and prioritize in fast-paced, stressful environments.
 
 
-
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=alexander-de-royal&theme=theme_name)
-
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=codemaker2015&theme=xcode)
-
-![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexander-de-royal&layout=compact&theme=blue-green)
-
 ## My Skill Set  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -36,6 +29,8 @@ I'm [Alexander](https://alexander-de-royal.github.io/). I am a software engineer
 
 
 ## Github Stats  
+
+
 <table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexander-de-royal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
@@ -48,7 +43,10 @@ I'm [Alexander](https://alexander-de-royal.github.io/). I am a software engineer
 
 <br/>  
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=alexander-de-royal&theme=theme_name)
+<img src="https://github-profile-trophy.vercel.app/?username=alexander-de-royal&column=-1" width="100%" height="150">
+
+
+
 
 ## Connect with me  
 <div align="center">
@@ -73,7 +71,6 @@ I'm [Alexander](https://alexander-de-royal.github.io/). I am a software engineer
 </div>  
 
 <br />
+<img src="https://readme-jokes.vercel.app/api" width="100%" height="150">
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-----
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
