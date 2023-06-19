@@ -1,12 +1,12 @@
+![Header](./header-image.jpg)
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 # Hello! 👋️
-![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
+![](https://komarev.com/ghpvc/?username=alexander-de-royal&color=0ca4a5)
 
 I'm [Alexander](https://alexander-de-royal.github.io/). I am a software engineer from San Francisco, CA. I am a versatile, hardworking individual; driven to meet or exceed a company’s expectations to deliver high-quality software products. Experienced in Java, JavaScript, NoSQL & SQL. An effective listener that can communicate technical information in an easily understandable way. Offers a strong background in creative problem-solving and a proven ability to multi-task and prioritize in fast-paced, stressful environments.
 
-![Header](./header-imag.jpg)
+
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=alexander-de-royal&theme=theme_name)
 
@@ -76,4 +76,4 @@ I'm [Alexander](https://alexander-de-royal.github.io/). I am a software engineer
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ----
-
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
