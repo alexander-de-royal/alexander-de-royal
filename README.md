@@ -1,9 +1,18 @@
 
+
+
 ![Header](./header-image.jpg)
+
 
 # Hi there 👋, I'm [Alexander](https://alexander-de-royal.github.io/)
 
 A versatile, hardworking individual; driven to meet or exceed a company’s expectations to deliver high-quality software products. Experienced in Java, JavaScript, NoSQL & SQL. An effective listener that can communicate technical information in an easily understandable way. Offers a strong background in creative problem-solving and a proven ability to multi-task and prioritize in fast-paced, stressful environments.
+
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=alexander-de-royal&theme=theme_name)
+
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=codemaker2015&theme=xcode)
+
+![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexander-de-royal&layout=compact&theme=blue-green)
 
 ## My Skill Set  
 <div align="center">  
@@ -39,6 +48,8 @@ A versatile, hardworking individual; driven to meet or exceed a company’s expe
 
 <br/>  
 
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=alexander-de-royal&theme=theme_name)
+
 ## Connect with me  
 <div align="center">
 <a href="https://twitter.com/alexander-de-royal" target="_blank">
@@ -63,5 +74,6 @@ A versatile, hardworking individual; driven to meet or exceed a company’s expe
 
 <br />
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ----
 
