@@ -80,5 +80,3 @@ With a passion for staying updated on industry trends and emerging technologies,
 
 <br />
 <img src="https://readme-jokes.vercel.app/api" width="100%" height="150">
-
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
