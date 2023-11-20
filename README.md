@@ -4,7 +4,15 @@
 # Hello! 👋️
 ![](https://komarev.com/ghpvc/?username=alexander-de-royal&color=0ca4a5)
 
-I'm [Alexander](https://alexander-de-royal.github.io/). I am a software engineer from San Francisco, CA. I am a versatile, hardworking individual; driven to meet or exceed a company’s expectations to deliver high-quality software products. Experienced in Java, JavaScript, NoSQL & SQL. An effective listener that can communicate technical information in an easily understandable way. Offers a strong background in creative problem-solving and a proven ability to multi-task and prioritize in fast-paced, stressful environments.
+As a seasoned software engineer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack, I have dedicated my career to crafting innovative and robust web applications. With a solid foundation in backend development using Node.js and Express.js, I excel in designing scalable and efficient server-side architectures.
+
+My expertise extends to MongoDB, where I proficiently model data and implement database solutions that align with project requirements. Leveraging my skills in React.js, I bring dynamic and interactive user interfaces to life, ensuring a seamless and engaging experience for end-users.
+
+Having navigated the intricacies of the MERN stack, I am well-versed in the end-to-end development process. From conceptualizing and planning features to writing clean and maintainable code, I am committed to delivering high-quality software solutions.
+
+My problem-solving mindset and attention to detail make me adept at troubleshooting and optimizing applications for performance. I thrive in collaborative environments, working closely with cross-functional teams to bring projects from conception to deployment.
+
+With a passion for staying updated on industry trends and emerging technologies, I continuously seek to enhance my skills and contribute to the advancement of web development practices. My journey as a MERN stack engineer is characterized by a commitment to excellence, a love for coding, and a relentless pursuit of delivering impactful digital experiences.
 
 
 ## My Skill Set  
