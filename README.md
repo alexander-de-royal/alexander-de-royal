@@ -4,15 +4,15 @@
 # Hello! 👋️
 ![](https://komarev.com/ghpvc/?username=alexander-de-royal&color=0ca4a5)
 
-As a seasoned software engineer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack, I have dedicated my career to crafting innovative and robust web applications. With a solid foundation in backend development using Node.js and Express.js, I excel in designing scalable and efficient server-side architectures.
+As a seasoned Frontend Software Engineer with comprehensive expertise in the MERN stack, I bring a wealth of experience and proficiency to the world of web development. My journey in software engineering has been marked by a relentless passion for crafting dynamic and intuitive user interfaces that seamlessly integrate with robust backend systems.
 
-My expertise extends to MongoDB, where I proficiently model data and implement database solutions that align with project requirements. Leveraging my skills in React.js, I bring dynamic and interactive user interfaces to life, ensuring a seamless and engaging experience for end-users.
+My skills in HTML, CSS, and JavaScript form the backbone of my frontend capabilities, allowing me to create visually appealing and responsive designs. Proficient in React.js, I specialize in building modern, single-page applications that deliver an exceptional user experience. My commitment to staying abreast of the latest industry trends and best practices ensures that my frontend solutions are always cutting-edge and user-centric.
 
-Having navigated the intricacies of the MERN stack, I am well-versed in the end-to-end development process. From conceptualizing and planning features to writing clean and maintainable code, I am committed to delivering high-quality software solutions.
+On the backend, I excel in the MERN stack—MongoDB, Express.js, React.js, and Node.js. Leveraging the power of MongoDB for flexible and scalable data storage, Express.js for creating robust server-side applications, React.js for building interactive user interfaces, and Node.js for running JavaScript on the server, I have successfully developed and deployed full-stack applications that marry seamless functionality with optimal performance.
 
-My problem-solving mindset and attention to detail make me adept at troubleshooting and optimizing applications for performance. I thrive in collaborative environments, working closely with cross-functional teams to bring projects from conception to deployment.
+My ability to seamlessly integrate frontend and backend components has been a key factor in the success of projects I've undertaken. Whether it's architecting scalable APIs, optimizing database performance, or ensuring cross-browser compatibility, my holistic understanding of the MERN stack allows me to tackle challenges comprehensively.
 
-With a passion for staying updated on industry trends and emerging technologies, I continuously seek to enhance my skills and contribute to the advancement of web development practices. My journey as a MERN stack engineer is characterized by a commitment to excellence, a love for coding, and a relentless pursuit of delivering impactful digital experiences.
+In addition to technical prowess, I am a collaborative team player with excellent communication skills. I thrive in dynamic environments where innovation and problem-solving are valued, and I am always eager to contribute my skills to projects that push the boundaries of what is possible in web development. My journey as a Frontend Software Engineer in the MERN stack is a testament to my commitment to delivering high-quality solutions that make a meaningful impact in the digital landscape.
 
 
 ## My Skill Set  
@@ -51,7 +51,6 @@ With a passion for staying updated on industry trends and emerging technologies,
 
 <br/>  
 
-<img src="https://github-profile-trophy.vercel.app/?username=alexander-de-royal&column=-1" width="100%" height="150">
 
 
 
