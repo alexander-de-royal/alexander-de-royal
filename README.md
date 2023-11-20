@@ -1,7 +1,7 @@
 
 
 
-# Hello! 👋️
+# Hello! 👋️ <img src="https://readme-jokes.vercel.app/api" width="100%" height="150">
 ![](https://komarev.com/ghpvc/?username=alexander-de-royal&color=0ca4a5)
 
 As a seasoned Frontend Software Engineer with comprehensive expertise in the MERN stack, I bring a wealth of experience and proficiency to the world of web development. My journey in software engineering has been marked by a relentless passion for crafting dynamic and intuitive user interfaces that seamlessly integrate with robust backend systems.
@@ -55,7 +55,7 @@ In addition to technical prowess, I am a collaborative team player with excellen
 
 
 
-## Connect with me  
+## Follow Me & Let's Create Something to Make this World a Better Place for Everyone  
 <div align="center">
 <a href="https://twitter.com/alexander-de-royal" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -78,4 +78,4 @@ In addition to technical prowess, I am a collaborative team player with excellen
 </div>  
 
 <br />
-<img src="https://readme-jokes.vercel.app/api" width="100%" height="150">
+
