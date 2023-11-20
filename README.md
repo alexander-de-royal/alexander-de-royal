@@ -1,7 +1,7 @@
 
 
 
-<img src="https://readme-jokes.vercel.app/api" width="100%" height="150">
+<img src="https://readme-jokes.vercel.app/api" width="100%" height="150" backgroundcolor="white">
 
 # Hi ! I hope you liked that joke. 
 ![](https://komarev.com/ghpvc/?username=alexander-de-royal&color=0ca4a5)
