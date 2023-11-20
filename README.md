@@ -1,4 +1,4 @@
-![Header](./header-image.jpg)
+
 
 
 # Hello! 👋️
