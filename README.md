@@ -1,12 +1,15 @@
 
 
 
-# Hello! 👋️ <img src="https://readme-jokes.vercel.app/api" width="100%" height="150">
+<img src="https://readme-jokes.vercel.app/api" width="100%" height="150">
+
+# Hi ! I hope you liked that joke. 
 ![](https://komarev.com/ghpvc/?username=alexander-de-royal&color=0ca4a5)
 
-As a seasoned Frontend Software Engineer with comprehensive expertise in the MERN stack, I bring a wealth of experience and proficiency to the world of web development. My journey in software engineering has been marked by a relentless passion for crafting dynamic and intuitive user interfaces that seamlessly integrate with robust backend systems.
+# A little bit about me...
+I am a seasoned Frontend Software Engineer with comprehensive expertise in the MERN stack, I bring a wealth of experience and proficiency to the world of web development. My journey in software engineering has been marked by a relentless passion for crafting dynamic and intuitive user interfaces that seamlessly integrate with robust backend systems. Please checkout my projects. I am always seeking open source contributer to help me take projects to next level.
 
-My skills in HTML, CSS, and JavaScript form the backbone of my frontend capabilities, allowing me to create visually appealing and responsive designs. Proficient in React.js, I specialize in building modern, single-page applications that deliver an exceptional user experience. My commitment to staying abreast of the latest industry trends and best practices ensures that my frontend solutions are always cutting-edge and user-centric.
+My skills in HTML, CSS, Figma, Bootstrap, React, Tailwind and JavaScript form the backbone of my frontend capabilities, allowing me to create visually appealing and responsive designs. Proficient in React.js, I specialize in building modern, single-page applications that deliver an exceptional user experience. My commitment to staying abreast of the latest industry trends and best practices ensures that my frontend solutions are always cutting-edge and user-centric.
 
 On the backend, I excel in the MERN stack—MongoDB, Express.js, React.js, and Node.js. Leveraging the power of MongoDB for flexible and scalable data storage, Express.js for creating robust server-side applications, React.js for building interactive user interfaces, and Node.js for running JavaScript on the server, I have successfully developed and deployed full-stack applications that marry seamless functionality with optimal performance.
 
