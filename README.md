@@ -1,11 +1,3 @@
-
-
-
-<img src="https://readme-jokes.vercel.app/api" width="100%" height="150" backgroundcolor="white">
-
-
-![](https://komarev.com/ghpvc/?username=alexander-de-royal&color=0ca4a5)
-
 # Hi ! I hope you liked that joke. 
 # A little bit about me...
 
@@ -18,6 +10,12 @@ On the backend, I excel in the MERN stack—MongoDB, Express.js, React.js, and N
 My ability to seamlessly integrate frontend and backend components has been a key factor in the success of projects I've undertaken. Whether it's architecting scalable APIs, optimizing database performance, or ensuring cross-browser compatibility, my holistic understanding of the MERN stack allows me to tackle challenges comprehensively.
 
 In addition to technical prowess, I am a collaborative team player with excellent communication skills. I thrive in dynamic environments where innovation and problem-solving are valued, and I am always eager to contribute my skills to projects that push the boundaries of what is possible in web development. My journey as a Frontend Software Engineer in the MERN stack is a testament to my commitment to delivering high-quality solutions that make a meaningful impact in the digital landscape.
+
+
+<img src="https://readme-jokes.vercel.app/api" width="100%" height="150" backgroundcolor="white">
+
+
+![](https://komarev.com/ghpvc/?username=alexander-de-royal&color=0ca4a5)
 
 
 ## My Skill Set  
