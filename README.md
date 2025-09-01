@@ -1,4 +1,3 @@
-# Hi ! I hope you liked that joke. 
 # A little bit about me...
 
 I am a seasoned Frontend Software Engineer with comprehensive expertise in the MERN stack, I bring a wealth of experience and proficiency to the world of web development. My journey in software engineering has been marked by a relentless passion for crafting dynamic and intuitive user interfaces that seamlessly integrate with robust backend systems. Please checkout my projects. I am always seeking open source contributer to help me take projects to next level.
@@ -44,7 +43,7 @@ In addition to technical prowess, I am a collaborative team player with excellen
 
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexander-de-royal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
 
 </td><td valign="top" width="50%">
 
