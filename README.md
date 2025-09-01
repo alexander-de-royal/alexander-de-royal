@@ -41,15 +41,15 @@ In addition to technical prowess, I am a collaborative team player with excellen
 ## Github Stats  
 
 
-<table><tr><td valign="top" width="50%">
+<table><tr>
 
-
-
-</td><td valign="top" width="50%">
+<td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-de-royal&hide_border=true&layout=compact" align="left" />
 
-</td></tr></table>  
+</td>
+
+</tr></table>  
 
 <br/>  
 
